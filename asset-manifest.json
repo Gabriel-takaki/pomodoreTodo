@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pomodoreTodo/static/css/main.89b9200d.css",
+    "main.js": "/pomodoreTodo/static/js/main.b7fe51a4.js",
+    "index.html": "/pomodoreTodo/index.html",
+    "main.89b9200d.css.map": "/pomodoreTodo/static/css/main.89b9200d.css.map",
+    "main.b7fe51a4.js.map": "/pomodoreTodo/static/js/main.b7fe51a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89b9200d.css",
+    "static/js/main.b7fe51a4.js"
+  ]
+}
